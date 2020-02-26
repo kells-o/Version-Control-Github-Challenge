@@ -1,0 +1,9 @@
+Explain what the terminal is in your own words.
+-A terminal is a text-based interface. Meaning it is text only.
+
+What is the major difference between Git and Github?
+-Git is a tool used by developers, while Github is a server where developers can upload their work for others to view and even build on.
+
+Why do we use Github?
+-It allows others to be able to build onto our project. Makes it public that way the project itself is more viewed and looked over/built on to, therefore creating a more efficient website.
+
